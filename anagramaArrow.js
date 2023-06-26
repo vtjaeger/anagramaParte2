@@ -1,4 +1,4 @@
-//calcular fatorial de um número
+//calcular fatorial de um número 
 
 const fatorialArrowFunction = numero => {
     if (numero <= 1){

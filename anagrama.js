@@ -55,7 +55,4 @@ function anagrama(palavra) {
 
 }
 
-anagrama("vinicius")
-//ovo
-//oov
-//voo 
+anagrama(palavra)
